@@ -1,5 +1,5 @@
-#Repositório principal 
-***Vocês tem repositórios com respectivos nomes de vocês, quando terminaream a parte de vocês no projeto foram um <h1>branch</h1> para o master.
+Repositório principal 
+***Vocês tem repositórios com respectivos nomes de vocês, quando terminaream a parte de vocês no projeto façam um branch para o master.
 
 <i>façam</i> <a>issues</a> caso tenham dúvidas pois registrando lá podem ser sanadas dúvidas de outros membros
 
